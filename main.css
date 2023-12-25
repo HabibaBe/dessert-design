@@ -1,0 +1,71 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Courgette&display=swap');
+
+
+
+
+.A1{
+    
+font-size:65px;
+font-family:"Agbalumo";
+
+
+}
+
+.A2{
+
+font-size:30px;
+font-family:"Courgette";
+
+
+}
+.A3{
+
+font-size:30px;
+font-family:"Courgette";
+
+}
+
+.A4{
+    font-size:35px;
+    background-color: beige;
+    font-family:"Courgette";
+    display:block;
+    margin-top:60px;
+    color: dark brown;
+
+
+}
+body{
+
+background-image: url(sweet-colorful-donuts.webp);
+
+background-size: cover; 
+}
+.titel{
+
+font-size:40px;
+color: beige;
+border: 0px beige solid;
+margin-top: 80px;
+margin-bottom:50px;
+margin-left:250px;
+width: fit-content;
+padding:5px;
+font-family:"Agbalumo";
+
+}
+
+img{
+
+width: 150px;
+
+}
+
+ul li{
+	background-color:noun;
+    color: beige;
+    display:inline-block;
+    list-style:none;
+    padding-left:45px;
+}

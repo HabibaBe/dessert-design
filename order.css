@@ -1,0 +1,38 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Courgette&display=swap');
+
+
+h1{
+	color: beige;
+	font-size:55px;
+	font-family:"Agbalumo";
+	margin-left:30px;
+
+}
+
+
+button[type="submit"]{
+	background:beige;
+	    font-size:25px;
+font-family:"Courgette";
+margin-top:10px;
+color: dark brown;
+margin-left:30px;
+
+}
+body{
+
+background-image: url(sweet-colorful-donuts.webp);
+background-size:cover ;
+
+
+}
+input[type="text"]{
+
+width:350px;
+background-color:beige;
+padding-bottom:10px;
+padding-top:10px;
+margin-left:30px;
+
+}
